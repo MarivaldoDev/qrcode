@@ -1,3 +1,3 @@
 # qrcode
- https://github.com/MarivaldoDev/qrcode/assets/126726979/ef95e2b9-ff61-4683-b675-7641584970a5
+ ![ezgif com-crop](https://github.com/MarivaldoDev/qrcode/assets/126726979/0529571d-8d91-4d0f-996f-c8d860da09eb)
 
