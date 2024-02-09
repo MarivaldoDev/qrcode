@@ -4,7 +4,7 @@ from tkinter import messagebox
 
 
 def qr():
-    link = link_entrada.get()
+    link = link_entrada.get().strip()
     if link == "":
         messagebox.showerror(title="Erro", message="Algo precisa ser digitado!")
     else:
